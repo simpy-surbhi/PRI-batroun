@@ -1,0 +1,27 @@
+.imghomeDiv{
+float: left;
+width: 5%;
+margin-left: 14px;
+margin-bottom: 36px;
+margin-top: 14px;
+}
+.dashName{
+    float: left;
+    margin-left: 12px;
+}
+.App-general{
+    margin-left: 84px;
+}
+.App-GeneralInformations{
+    margin-left: 63px;
+}
+.App-engines{
+    margin-left: 70px;
+}
+.searchBtn{
+    float:right;
+}
+
+.goBtn{
+    float:right;
+}
